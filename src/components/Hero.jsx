@@ -32,8 +32,9 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="text-base md:text-lg text-white/40 max-w-2xl mx-auto leading-relaxed pb-10"
         >
-          I design modern, high-converting websites for salons and local businesses
-          across BC — built to attract customers, rank on Google, and increase bookings.
+          Professional website design in Surrey & Vancouver BC. I build modern,
+          high-converting websites for local businesses — built to attract customers,
+          rank on Google, and grow your revenue.
         </motion.p>
 
         <motion.div
