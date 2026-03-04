@@ -114,7 +114,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-xs text-white/25 uppercase tracking-wider">Phone</div>
-                  <span className="text-white/70 text-sm">Available on request</span>
+                  <a href="tel:6132616897" className="text-white/70 hover:text-white transition-colors text-sm">(613) 261-6897</a>
                 </div>
               </div>
 
